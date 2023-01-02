@@ -2,11 +2,11 @@ package utils;
 
 public class MainUtils {
 
-    public void coolMethod(){
+    public static void coolMethod(){
 
     }
 
-    public void Method1(){
+    public static void Method1(){
 
     }
 }
